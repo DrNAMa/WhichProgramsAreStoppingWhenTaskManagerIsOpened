@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>WhichProgramsAresStoppingWhenTaskManagerIsOpened</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+    <ApplicationIcon>output_20261018_211743.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="output_20261018_211743.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+
+</Project>
